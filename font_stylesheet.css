@@ -56,7 +56,7 @@
     src: url('recklessneue-regular-webfont.woff2') format('woff2'),
          url('recklessneue-regular-webfont.woff') format('woff'),
          url('recklessneue-regular-webfont.ttf') format('truetype');
-    font-weight: 400;
+    font-weight: normal;
     font-style: normal;
 
 }
@@ -131,7 +131,7 @@
     src: url('gellix-regular-webfont.woff2') format('woff2'),
          url('gellix-regular-webfont.woff') format('woff'),
          url('gellix-regular-webfont.ttf') format('truetype');
-    font-weight: 300;
+    font-weight: normal;
     font-style: normal;
 
 }
