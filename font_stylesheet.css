@@ -131,7 +131,7 @@
     src: url('gellix-regular-webfont.woff2') format('woff2'),
          url('gellix-regular-webfont.woff') format('woff'),
          url('gellix-regular-webfont.ttf') format('truetype');
-    font-weight: normal;
+    font-weight: 300;
     font-style: normal;
 
 }
